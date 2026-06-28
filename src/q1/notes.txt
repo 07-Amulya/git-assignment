@@ -5,3 +5,6 @@ Created first file
 //Modifications
 Practiced git status command
 Practiced git log command
+
+//Modifications 
+Added extra content from original repository
