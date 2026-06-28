@@ -1,0 +1,3 @@
+Name: Thrivikram
+Role: Data Engineer
+Skills: SQL, Python
