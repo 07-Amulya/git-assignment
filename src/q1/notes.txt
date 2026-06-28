@@ -1,3 +1,7 @@
 Git Assignment Q1
 Learning repository initialization
 Created first file
+
+//Modifications
+Practiced git status command
+Practiced git log command
