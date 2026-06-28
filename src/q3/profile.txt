@@ -1,0 +1,3 @@
+Name: Amulya
+Role: Data Engineer
+Skills: Python, SQL
