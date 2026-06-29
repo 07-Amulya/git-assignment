@@ -1,0 +1,3 @@
+Day 1: Learned Git basics
+Day 2: Learned branching
+Day 3: Learned merging
