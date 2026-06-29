@@ -1,1 +1,3 @@
 Login feature created
+Password validation added
+Forgot password functionality added
